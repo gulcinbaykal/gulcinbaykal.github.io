@@ -15,10 +15,14 @@ img {
 }
 </style>
 
- 
+<div class="box">
+  <img style="vertical-align:middle; float: left" src="/assets/images/edvae.png" alt="" width="250">
+  <span style=""><b>G.Baykal</b>, M. Kandemir and G. Unal, "EdVAE: Mitigating Codebook Collapse with Evidential Discrete Variational Autoencoders," <em>Pattern Recognition</em>, Volume 156, 2024. <a href="https://www.sciencedirect.com/science/article/pii/S0031320324005430">[Paper]</a> <a href="https://github.com/ituvisionlab/EdVAE">[Code]</a></span>
+</div> 
+
 <div class="box">
   <img style="vertical-align:middle; float: left" src="/assets/images/protodiffusion.png" alt="" width="250">
-  <span style=""><b>G.Baykal*</b>, H.F.Karagoz*, T. Binhuraib, and G. Unal, "ProtoDiffusion: Classifier-Free Diffusion Guidance with Prototype Learning," <em>Asian Conference on Machine Learning</em>, Istanbul, Turkey, 2023. <a href="https://arxiv.org/abs/2307.01924">[Paper]</a> <a href="/publications">[Code: coming soon]</a></span>
+  <span style=""><b>G.Baykal*</b>, H.F.Karagoz*, T. Binhuraib, and G. Unal, "ProtoDiffusion: Classifier-Free Diffusion Guidance with Prototype Learning," <em>Asian Conference on Machine Learning</em>, Istanbul, Turkey, 2023. <a href="https://arxiv.org/abs/2307.01924">[Paper]</a> <a href="https://github.com/ituvisionlab/ProtoDiffusion">[Code]</a></span>
 </div>
 
 <div class="box">

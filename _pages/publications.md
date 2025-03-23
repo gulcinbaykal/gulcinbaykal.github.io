@@ -16,6 +16,11 @@ img {
 </style>
 
 <div class="box">
+  <img style="vertical-align:middle; float: left" src="/assets/images/factorqvae.png" alt="" width="250">
+  <span style=""><b>G.Baykal</b>, M. Kandemir and G. Unal, "Disentanglement with Factor Quantized Variational Autoencoders," Under Review in <em>Neurocomputing</em>. <a href="https://arxiv.org/abs/2409.14851">[Paper]</a> <a href="https://github.com/ituvisionlab/FactorQVAE">[Code]</a></span>
+</div> 
+
+<div class="box">
   <img style="vertical-align:middle; float: left" src="/assets/images/edvae.png" alt="" width="250">
   <span style=""><b>G.Baykal</b>, M. Kandemir and G. Unal, "EdVAE: Mitigating Codebook Collapse with Evidential Discrete Variational Autoencoders," <em>Pattern Recognition</em>, Volume 156, 2024. <a href="https://www.sciencedirect.com/science/article/pii/S0031320324005430">[Paper]</a> <a href="https://github.com/ituvisionlab/EdVAE">[Code]</a></span>
 </div> 

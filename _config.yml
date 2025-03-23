@@ -40,8 +40,8 @@ analytics:
 author:
   name   : "Gülçin Baykal Can"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D. Candidate | Google DeepMind Scholar"
-  location: "Istanbul, TR"
+  bio    : "Postdoctoral Researcher"
+  location: "Odense, DK"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -54,7 +54,7 @@ author:
       url: "https://scholar.google.com/citations?user=tcmSfdwAAAAJ&hl=tr"
     - label: "E-Mail"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:baykalg@itu.edu.tr"
+      url: "mailto:baykalg@imada.sdu.dk"
 
 # Reading Files
 include:
